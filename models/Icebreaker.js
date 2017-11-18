@@ -8,3 +8,5 @@ class Icebreaker{
 }
 
 module.exports = Icebreaker;
+
+cons Question = require((*./Question))
